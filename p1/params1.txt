@@ -1,0 +1,4 @@
+LoRa.setSpreadingFactor(7);        // 7 to 12
+LoRa.setSignalBandwidth(125E3);    // 125 kHz // 250 kHz // 500 kHz
+LoRa.setCodingRate4(8);            // 5-8
+LoRa.setTxPower(20);               // 2-20
